@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>icons-gdp</title>
+    <link>https://sketch.cloud/s/WEkRw</link>
+    <description>GDP Icons Sketch Library - includes filled and two-toned styles</description>
+    <language>en</language>
+      <item>
+        <title>icons-library</title>
+        <pubDate>Tue, 19 Feb 2019 14:00:00 +0000</pubDate>
+        <link>https://sketch.cloud/s/WEkRw</link>
+        <enclosure url="https://client.sketch.cloud/v1/documents/cbba256f-880e-484b-84c3-8a894f4d0d06/download/wm-gdp-icons-filled-library.sketch?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZGVudCI6ImNiYmEyNTZmLTg4MGUtNDg0Yi04NGMzLThhODk0ZjRkMGQwNiIsImV4cCI6MTU1MTI2MTg2NywiaWF0IjoxNTUxMjU4MjY3fQ.mXyB80L8m1OEh8zZjE_8YSzAEHTKjvUfBxFayxjDTx4" length="1284497" type="application/octet-stream" sparkle:version="1" />
+      </item>
+  </channel>
+</rss>
