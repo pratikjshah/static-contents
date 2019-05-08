@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Living-Design-Global-Beta</title>
-    <link>https://raw.githubusercontent.com/pratikjshah/static-contents/master/lds-beta/Living-Design-Global-Beta.xml</link>
-    <description>Living Design Global (Beta) - initial build for Sketch Cloud Design System</description>
+    <description>Initial build for Sketch Cloud Design System</description>
+    <generator>Sketch</generator>
     <language>en</language>
       <item>
         <title>Living-Design-Global-Beta.sketch</title>
-        <sparkle:minimumSystemVersion>49</sparkle:minimumSystemVersion>
-        <pubDate>Wed, 8 May 2019 14:00:00 +0000</pubDate>
+        <sparkle:minimumSystemVersion>53</sparkle:minimumSystemVersion>
+        <pubDate>Wed, 8 May 2019 10:00:00 +0000</pubDate>
         <enclosure url="https://github.com/pratikjshah/static-contents/blob/master/lds-beta/Living-Design-Global-Beta.sketch?raw=true" sparkle:version="15" length="1649133" type="application/octet-stream" />
       </item>
       <item>
         <title>Living-Design-Global-Beta.sketch</title>
-        <sparkle:minimumSystemVersion>49</sparkle:minimumSystemVersion>
+        <sparkle:minimumSystemVersion>53</sparkle:minimumSystemVersion>
         <pubDate>Thu, 2 May 2019 14:00:00 +0000</pubDate>
         <enclosure url="https://github.com/pratikjshah/static-contents/blob/master/lds-beta/Living-Design-Global-Beta.sketch?raw=true" sparkle:version="15" length="1649133" type="application/octet-stream" />
       </item>
