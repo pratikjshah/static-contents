@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title> 🔄 Symbol Browser</title>
+        <title>⚛️ Symbol Browser</title>
         <link>https://raw.githubusercontent.com/pratikjshah/symbol-browser/master/appcast.xml</link>
         <description>Better way to browse your Design System and UI Sticker sheet</description>
         <language>en</language>
         <item>
-            <title>v2.1.1</title>
+            <title>v3.1</title>
             <description>
                 <![CDATA[
-                  <h2>Initial Build</h2>
+                  <h2>Incremental Build</h2>
                 ]]>
             </description>
-            <pubDate>Mon, 10 Jun 2019 20:54:24 GMT</pubDate>
+            <pubDate>Thu, 1 Aug 2019 8:54:24 GMT</pubDate>
             <enclosure
-                url="https://github.com/pratikjshah/symbol-browser/archive/v2.1.1.zip"
-                sparkle:version="2.1.1"
+                url="https://github.com/pratikjshah/symbol-browser/archive/v2.0.1.zip"
+                sparkle:version="2.0.1"
                 type="application/octet-stream"/>
         </item>
         <item>
-            <title>v2.1.0</title>
+            <title>v2.0.1</title>
             <description>
                 <![CDATA[
                   <h2>Initial Build</h2>
@@ -27,8 +27,8 @@
             </description>
             <pubDate>Sat, 25 May 2019 18:54:24 GMT</pubDate>
             <enclosure
-                url="https://github.com/pratikjshah/symbol-browser/archive/v2.1.0.zip"
-                sparkle:version="2.1.0"
+                url="https://github.com/pratikjshah/symbol-browser/archive/v2.0.1.zip"
+                sparkle:version="2.0.1"
                 type="application/octet-stream"/>
         </item>
     </channel>
