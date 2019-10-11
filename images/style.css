@@ -4,7 +4,7 @@
 font-family: 'Neue Haas Grotesk Text Pro Roman';
 font-style: normal;
 font-weight: normal;
-src: local('Neue Haas Grotesk Text Pro Roman'), url('NHaasGroteskTXPro-55Rg.woff') format('woff');
+src: local('Neue Haas Grotesk Text Pro Roman'), url('https://github.com/pratikjshah/static-contents/blob/master/images/NHaasGroteskTXPro-55Rg.woff') format('woff');
 }
 
 
@@ -12,7 +12,7 @@ src: local('Neue Haas Grotesk Text Pro Roman'), url('NHaasGroteskTXPro-55Rg.woff
 font-family: 'Neue Haas Grotesk Text Pro Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Neue Haas Grotesk Text Pro Italic'), url('NHaasGroteskTXPro-56It.woff') format('woff');
+src: local('Neue Haas Grotesk Text Pro Italic'), url('https://github.com/pratikjshah/static-contents/blob/master/images/NHaasGroteskTXPro-56It.woff') format('woff');
 }
 
 
@@ -20,7 +20,7 @@ src: local('Neue Haas Grotesk Text Pro Italic'), url('NHaasGroteskTXPro-56It.wof
 font-family: 'Neue Haas Grotesk Text Pro Bold';
 font-style: normal;
 font-weight: normal;
-src: local('Neue Haas Grotesk Text Pro Bold'), url('NHaasGroteskTXPro-75Bd.woff') format('woff');
+src: local('Neue Haas Grotesk Text Pro Bold'), url('https://github.com/pratikjshah/static-contents/blob/master/images/NHaasGroteskTXPro-55Rg.woff') format('woff');
 }
 
 
@@ -28,5 +28,5 @@ src: local('Neue Haas Grotesk Text Pro Bold'), url('NHaasGroteskTXPro-75Bd.woff'
 font-family: 'Neue Haas Grotesk Text Pro Bold Italic';
 font-style: normal;
 font-weight: normal;
-src: local('Neue Haas Grotesk Text Pro Bold Italic'), url('NHaasGroteskTXPro-76BdIt.woff') format('woff');
+src: local('Neue Haas Grotesk Text Pro Bold Italic'), url('https://github.com/pratikjshah/static-contents/blob/master/images/NHaasGroteskTXPro-76BdIt.woff') format('woff');
 }
