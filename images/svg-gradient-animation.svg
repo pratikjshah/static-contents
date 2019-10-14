@@ -1,8 +1,8 @@
-<svg viewBox="0 0 202 197"
+<svg
 	xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink" >
 <defs>
-<linearGradient id="myG" x1="50%" y1="0%" x2="50%" y2="100%" > 
+<linearGradient id="myG" x1="100%" y1="0%" x2="0%" y2="100%" > 
             
             <stop offset="0%" stop-color="#7A5FFF">
                 <animate attributeName="stop-color" values="#7A5FFF; #01FF89; #7A5FFF" dur="4s" repeatCount="indefinite"></animate>
@@ -14,5 +14,5 @@
 
         </linearGradient>  
 </defs>
-<rect x="0" y="0" width="50%" height="50%" fill="url(#myG)"/>
+<rect x="0" y="0" width="100%" height="100%" fill="url(#myG)"/>
 </svg>
