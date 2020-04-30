@@ -14,7 +14,7 @@
             </description>
             <pubDate>Mon, 27 Apr 2020 20:54:24 GMT</pubDate>
             <enclosure
-                url="https://github.com/pratikjshah/static-contents/blob/master/test/symbol-browser.sketchplugin.zip"
+                url="https://raw.githubusercontent.com/pratikjshah/static-contents/master/test/symbol-browser.sketchplugin.zip"
                 sparkle:version="3.5.1"
                 type="application/octet-stream"/>
         </item>
